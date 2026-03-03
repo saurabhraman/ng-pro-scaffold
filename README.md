@@ -1,6 +1,5 @@
 # ng-pro-scaffold
 
-[![npm version](https://badge.fury.io/js/ng-pro-scaffold.svg)](https://badge.fury.io/js/ng-pro-scaffold)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 
@@ -29,13 +28,26 @@
 
 ## Installation
 
-### Global Installation (Recommended)
+### From Source (Local Development)
+
+Clone and link the package globally:
 
 ```bash
-npm install -g ng-pro-scaffold
+git clone https://github.com/your-username/ng-pro-scaffold.git
+cd ng-pro-scaffold
+npm install
+npm link
 ```
 
-### Using npx
+After linking, you can use the CLI anywhere:
+
+```bash
+ng-pro-scaffold new my-project
+```
+
+### Using npx (Coming Soon)
+
+Once published to npm:
 
 ```bash
 npx ng-pro-scaffold new my-project
