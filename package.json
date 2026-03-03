@@ -30,18 +30,21 @@
     "boilerplate",
     "typescript",
     "tailwind",
-    "docker"
+    "docker",
+    "angular-cli",
+    "project-template",
+    "starter-kit"
   ],
-  "author": "",
+  "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/your-username/ng-pro-scaffold.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/your-username/ng-pro-scaffold/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/your-username/ng-pro-scaffold#readme",
   "engines": {
     "node": ">=18.0.0"
   },
