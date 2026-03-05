@@ -39,12 +39,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/ng-pro-scaffold.git"
+    "url": "git+https://github.com/saurabhraman/ng-pro-scaffold.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/ng-pro-scaffold/issues"
+    "url": "https://github.com/saurabhraman/ng-pro-scaffold/issues"
   },
-  "homepage": "https://github.com/your-username/ng-pro-scaffold#readme",
+  "homepage": "https://github.com/saurabhraman/ng-pro-scaffold#readme",
   "engines": {
     "node": ">=18.0.0"
   },
